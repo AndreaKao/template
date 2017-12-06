@@ -1,0 +1,55 @@
+.section-2 {
+	border: 5em;
+  background-color: #E5E8E8;
+  border-radius: 15px;
+  height: auto;
+  width: 90%;
+  margin: auto;
+  margin-top: 6em;
+  
+}
+
+#second {
+  height: auto;
+  width: 90%;
+  padding: 1.5em;
+}
+
+#second h2 {
+	text-align: justify;
+  height: auto;
+}
+
+#second h4 {
+	size: 10em;
+	text-align: justify;
+}
+
+.section-3 button {
+  margin: 0.2em;
+}
+
+.thumbnails {
+  border: 6px double #fff;
+  background-color: #E5E8E8;
+  border-radius: 15px;
+  height: 200px;
+  width: 200px;
+  text-align: center;
+}
+
+#seven a{
+   padding: 0.5em;
+}
+
+.container-fluid {
+  height: auto;
+  width: 100%
+}
+
+.section-9 {
+  text-align: center;
+  height: auto;
+  width: 95%;
+  padding-left: 5em;
+}
